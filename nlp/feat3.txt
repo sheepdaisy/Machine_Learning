@@ -1,1 +1,6 @@
 This is feat3 file created in the branch feature-1
+
+Just edit this file locally. 
+
+funny. 
+
