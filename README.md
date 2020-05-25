@@ -1,4 +1,7 @@
-# Machine_Learning
-A development environment
+# Git_ninja
+A testing environment, so I don't break things.
+ - experimenting local and remote are linked up and tracked 
+ - experimenting branches, tags, release 
+ - expeirmenting collabs, pull requests, 
 
-editing this up file locally. 
+
